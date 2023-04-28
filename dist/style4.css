@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.overall{
+    display: flex;
+
+}
+
+.first_row{
+    background-color: #660099;
+    width: 20%;
+    box-sizing: border-box;
+}
+
+.row_image{ 
+    width: 5rem;
+}
+
+.first_row1{
+    margin-top: 5rem;
+}
+.spacing {
+ margin-bottom: 0.75rem;
+ margin-left: 1.75rem;
+}
+.spacingM{
+    margin-bottom: 2.5rem;
+    margin-left: 1.75rem;    
+}
+.spacingM1 {
+    margin-top: 2.5rem;
+    margin-left: 1.75rem;
+}
+
+.spacing1 {
+ margin-bottom: 0.75rem;
+ margin-left: 1.75rem;
+}
+
+.links {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.paraG {
+    margin-left: 1.25rem;
+    margin-top: -0.25rem;
+}
+
+
+
+
+
+
+
+.second_row{
+    background-color: #0F0B0B;
+    padding-bottom: 2.5rem;
+    width: 80%;
+    box-sizing: border-box;
+}
+.second_row1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.second_row1top1{
+    display: flex;
+    background-color: #0F0B0B;
+    border: 2px white solid;
+    width: 24rem;
+    margin-left: 5rem;
+    border-radius: 0.375rem;
+}
+
+.second_row1top1_icon{
+    color: #9E9898;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+.writing{
+    background-color: #0F0B0B;
+
+}
+
+input[type="text"] {
+    background-color: #0F0B0B;
+    padding-top: 0.25rem;
+    padding-left: 0.8rem;
+    margin-left: 0.25rem;
+    border: none;
+    width: 22rem;
+    height: 3rem;
+    color: white;
+}
+
+
+.second_row1top2{
+    display: flex;
+    margin-right: 2.5rem;
+}
+
+.second_row1top2_icon {
+    color: #660099;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+}
+
+
+.right_side{
+    color: white;
+    margin-top: 2.5rem;
+    margin-right: 9rem;
+    margin-left: 5rem;
+}
+
+.right_side_H{
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.right_side_row1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.25rem;
+    border: 1px #660099 solid;
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+
+}
+
+.right_side_row1_P{
+    font-weight: 100;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    padding-top: 0.5rem;
+}
+
+
+.right_side_under {
+    display: flex;
+    justify-content: center;
+    background-color: #660099;
+    color: white;
+    margin-left: 5rem;
+    margin-top: 2.5rem;
+    margin-right: 9rem;
+    border-radius: 0.25rem;
+    padding: 0.75rem;
+}
+
+.right_side_under1{
+    margin-right: 9rem;
+    margin-left: 9rem;
+}
+.right_side_under2{
+    margin-right: 9rem;
+}
